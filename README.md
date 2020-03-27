@@ -1,1 +1,2 @@
-# cuchara-rizada
+Crud
+Programa para mostrar las operacion basicas.
